@@ -7,3 +7,5 @@ thi sis the 3rd commit
 doing the ammend
 
 testing the ammend
+
+okay t hen edit small
